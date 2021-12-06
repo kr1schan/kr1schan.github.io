@@ -1,0 +1,17 @@
+baseURL: 'https://kr1schan.github.io'
+defaultContentLanguage: "en"
+languageCode: 'en'
+title: 'Krischan Dickel'
+theme: "PaperMod"
+
+params:
+  profileMode:
+      enabled: true
+      title: "<Title>" # optional default will be site title
+  socialIcons:
+    - name: linkedin
+      url: "https://www.linkedin.com/in/krischan-dickel-09324439"
+    - name: xing
+      url: "https://www.xing.com/profile/Krischan_Dickel"
+    - name: github
+      url: "https://github.com/kr1schan"
