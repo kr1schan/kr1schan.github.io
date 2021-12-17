@@ -15,3 +15,5 @@ params:
       url: "https://www.xing.com/profile/Krischan_Dickel"
     - name: github
       url: "https://github.com/kr1schan"
+    - name: email
+      url: "mailto:krischan.dickel@posteo.de"
